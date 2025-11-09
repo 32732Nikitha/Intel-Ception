@@ -1,4 +1,8 @@
 # Ignore everything except code
+# Environment files
+.env
+*.env
+
 .env
 .venv/
 __pycache__/
