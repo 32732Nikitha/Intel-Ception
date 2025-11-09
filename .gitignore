@@ -1,0 +1,15 @@
+# Ignore everything except code
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+_intake/
+battle_cards/
+db/
+assets/
+*.log
+*.pdf
+*.txt
