@@ -1,0 +1,28 @@
+## Zoho CRM Battle Card
+
+**TL;DR:** Zoho CRM offers extreme customizability and a broad ecosystem at a competitive price, but struggles with an outdated UI, buggy integrations, and hidden costs for essential features.
+
+### 1) Top 3 Strengths:
+
+*   **Extreme Customizability:** Excels in supporting niche workflows with features like Canvas, Client Scripts, and Custom Modules, allowing for highly tailored solutions.
+*   **Comprehensive Ecosystem (Zoho One):** Provides a wide array of integrated apps, enabling users to run their entire business on the Zoho platform.
+*   **Competitive Pricing:** Offers significantly lower entry-level pricing tiers ($23/user/mo) compared to competitors like Tech Nova.
+
+### 2) Top 3 Weaknesses:
+
+*   **Poor UI/UX:** Users describe the interface as "clunky, complex, not intuitive," and feeling "10 years old."
+*   **Buggy & Bolted-Together Integrations:** Despite the Zoho One bundle, integrations between apps are reported as "buggy" and "not seamless."
+*   **Hidden Costs & Complexity:** Many essential features (e.g., advanced analytics, support) require separate subscriptions within the Zoho One bundle, adding to overall cost and complexity.
+
+### 3) 3 Concrete Sales Talking Points to Beat Zoho CRM:
+
+1.  **"While Zoho's UI is often described as 'clunky, complex, and 10 years old,' Tech Nova is designed for intuitive simplicity, ensuring your team can adopt and use it effectively from day one without extensive training. Our mission is to be powerful *and* simple, not just complex."**
+2.  **"Unlike Zoho One, where users report 'buggy' and 'bolted together' integrations, Tech Nova offers a truly all-in-one platform with seamless functionality across all features, including our integrated Nova AI Co-pilot, without the need for separate subscriptions or hidden costs."**
+3.  **"Zoho's pricing can be misleading, with essential features like advanced analytics often requiring separate subscriptions. Tech Nova provides predictable, transparent pricing with powerful features like our Nova AI Co-pilot, AI Call Summaries, and unlimited automation workflows *included* in our core tiers, giving you more value without unexpected expenses."**
+
+### 4) Source Filenames Referenced:
+
+*   Zoho_Datasheet_Pricing.txt
+*   Zoho_G2_Reviews.txt
+*   Tech_Nova_Datasheet.txt
+*   Tech_Nova_WinLoss_Notes.txt

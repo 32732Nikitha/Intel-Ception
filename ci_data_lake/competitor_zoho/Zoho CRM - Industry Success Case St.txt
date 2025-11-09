@@ -1,0 +1,19 @@
+Zoho CRM - Industry Success Case Study (Retail, 2025)
+-----------------------------------------------------
+
+Client: TrendKart Retail Pvt Ltd.
+Industry: Omnichannel Retail (India)
+Use Case: Multi-store inventory and loyalty automation.
+
+Solution Highlights:
+- Used Zoho Canvas to build a custom retail dashboard.
+- Integrated Zoho Books and Zoho Desk for unified billing and customer support.
+- Implemented Zia Forecasting for daily sales trends.
+
+Results:
+- 38% faster deal closures.
+- 22% improvement in customer satisfaction scores.
+- Reduced manual entry time by 40%.
+
+Competitive Note:
+The client evaluated HubSpot and Tech Nova but found Zoho’s customization and pricing more suitable for regional operations.

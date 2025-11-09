@@ -1,0 +1,16 @@
+HubSpot Sales Hub - Feature List (Q1 2025)
+------------------------------------------
+Sales Hub Professional ($100/user/mo):
+- Core CRM: Contact, Deal, and Pipeline Management
+- Sales Automation: Sales sequences, task automation
+- Reporting: Custom reporting and dashboards
+- Quoting: Build and send quotes
+- AI Features (Breeze AI):
+  - AI Content Writer (Emails, blogs)
+  - Predictive lead scoring
+
+Sales Hub Enterprise ($150/user/mo):
+- All Pro features
+- Advanced Forecasting
+- Playbooks
+- Conversation Intelligence (Call analysis)

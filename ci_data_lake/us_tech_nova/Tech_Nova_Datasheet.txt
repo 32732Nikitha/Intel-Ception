@@ -1,0 +1,20 @@
+Tech Nova CRM - 2025 Product Datasheet
+--------------------------------------
+Our Mission: The all-in-one CRM that is powerful, simple, and predictable.
+
+Key Differentiators:
+1.  All-in-One Platform: One unified platform for Sales, Marketing, and Support. No more data silos.
+2.  Predictable Pricing: Simple per-seat pricing. We *never* charge for add-on features.
+3.  Unlimited API & Automations: We provide unlimited API calls and unlimited automation workflows on our 'Pro' and 'Enterprise' plans. We don't penalize your growth.
+
+Feature Tiers:
+- Pro Tier ($90/user/mo):
+  - Full Sales Pipeline Management
+  - Integrated "Nova AI" Co-pilot (Included)
+  - AI Call Summaries & Email Drafting
+  - Unlimited API Calls
+  - Unlimited automation workflows
+- Enterprise Tier ($160/user/mo):
+  - All Pro features
+  - Advanced security & HIPAA compliance
+  - Custom sandboxes

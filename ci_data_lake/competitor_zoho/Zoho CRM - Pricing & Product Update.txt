@@ -1,0 +1,17 @@
+Zoho CRM - Pricing & Product Update (December 2025)
+---------------------------------------------------
+
+Effective January 10, 2026, Zoho CRM will introduce new pricing tiers and bundled AI automation packs.
+
+New Plans:
+- Professional ($25/user/mo): Includes Blueprint, SalesSignals, and Workflow Automation.
+- Enterprise ($42/user/mo): Adds Zia AI 2.0, Canvas Customization, Multi-level Territory Management.
+- Ultimate ($55/user/mo): Now includes 1M API calls/month and free access to Zoho Analytics.
+
+Key Updates:
+1. Zia Credits Removed — AI usage will now be unlimited within the Enterprise plan.
+2. API Limit Increase — Enterprise plan customers now get 2x more API calls.
+3. Enhanced Integration with Zoho Books and Zoho Campaigns.
+
+Strategic Focus:
+Zoho aims to target mid-sized and manufacturing businesses currently frustrated with HubSpot’s AI credit pricing system.

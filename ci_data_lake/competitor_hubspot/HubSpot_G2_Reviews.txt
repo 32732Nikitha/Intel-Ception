@@ -1,0 +1,12 @@
+Aggregated G2 Reviews for HubSpot Sales Hub (Nov 2025)
+------------------------------------------------------
+What Users Like:
+- "It's just so easy to use. I trained my entire team in one afternoon. The UI is clean and intuitive."
+- "The email sequencing tool is fantastic. It saves me hours of follow-up every single day."
+- "The integration with the Marketing Hub is seamless. I can see a lead's entire journey."
+
+What Users Dislike:
+- "The price. It's incredibly expensive, and the cost jumps very fast when you add contacts or move to a higher tier."
+- "You feel 'gated' all the time. The best features, like Playbooks, are locked behind the Enterprise wall, which is a huge price jump."
+- "The new 'Credits' system for AI is confusing. I'd rather just pay a flat fee and not worry about 'consuming' credits every time I summarize a call."
+- "Reporting is surprisingly weak. You can't do complex cross-object reports without buying the Operations Hub."

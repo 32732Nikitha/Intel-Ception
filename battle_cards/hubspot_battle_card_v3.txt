@@ -1,0 +1,23 @@
+**TL;DR:** HubSpot Sales Hub is expensive with unpredictable pricing and gates key features behind higher, costly tiers, while Tech Nova offers predictable pricing and includes advanced AI features in its accessible Pro tier.
+
+### HubSpot Sales Hub Battle Card
+
+**1) Top 3 Strengths:**
+*   Advanced Forecasting capabilities.
+*   Quoting functionality to build and send quotes.
+*   (No other explicit strengths found in the provided context beyond specific features).
+
+**2) Top 3 Weaknesses:**
+*   **High & Unpredictable Pricing:** Incredibly expensive with costs jumping rapidly when adding contacts or moving to higher tiers.
+*   **Feature Gating:** Best features, such as Playbooks, are locked behind the Enterprise tier, requiring a significant price jump.
+*   **Perceived Value:** Users feel "gated" and forced into higher, more expensive tiers to access essential functionality.
+
+**3) Concrete Sales Talking Points to Beat HubSpot:**
+1.  **Predictable Pricing & Inclusive Value:** "Unlike HubSpot's 'incredibly expensive' model where 'cost jumps very fast' with contacts or tier upgrades, Tech Nova offers predictable, per-user pricing. Our Pro tier, at just $90/user/month, includes powerful features like Nova AI Co-pilot, AI Call Summaries, and unlimited automation workflows, ensuring you get comprehensive value without hidden costs or unexpected hikes."
+2.  **Access to Advanced Features, Not Gated Tiers:** "Don't get 'gated' out of essential functionality. While HubSpot locks 'best features, like Playbooks,' behind their expensive Enterprise wall, Tech Nova provides core AI capabilities, unlimited API calls, and unlimited automation workflows in our accessible Pro tier, empowering your team without forcing a huge price jump for basic necessities."
+3.  **Simplicity, Power, and Predictability:** "Tech Nova is designed to be powerful, simple, and predictable. You won't feel 'gated' or face unexpected price hikes. Our platform delivers robust sales pipeline management and advanced AI tools upfront, allowing your team to focus on selling, not navigating complex pricing tiers or feature restrictions like with HubSpot."
+
+**4) Source Filenames Referenced:**
+*   1_HubSpot_Pricing_Q1.txt
+*   HubSpot_G2_Reviews.txt
+*   Tech_Nova_Datasheet.txt

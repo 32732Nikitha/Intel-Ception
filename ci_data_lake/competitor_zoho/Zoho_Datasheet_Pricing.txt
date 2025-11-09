@@ -1,0 +1,16 @@
+Zoho CRM - 2025 Overview
+------------------------
+The Platform for Every Business.
+
+Core Features:
+- Sales Force Automation: Lead/Contact/Deal Management
+- Process Management: 'Blueprint' for visual process mapping, 'Cadences' for sales follow-up.
+- Omnichannel: Communicate on Phone, Email, Social, and Chat.
+- Zia (AI Assistant): Predictive sales, anomaly detection, data enrichment.
+- Extreme Customization: Use 'Canvas' (UI designer) and 'Client Scripts' to completely rebuild the CRM interface to your exact needs.
+
+Pricing Model (Annual):
+- Professional ($23/user/mo): SalesSignals, Blueprint, Inventory Management.
+- Enterprise ($40/user/mo): Zia (AI), Canvas, Multi-level territory management, Custom Modules.
+- Ultimate ($52/user/mo): Advanced BI, enhanced feature limits.
+- Note: Many other features (e.g., advanced analytics, support) are part of other Zoho apps and may require separate subscriptions in the Zoho One bundle.

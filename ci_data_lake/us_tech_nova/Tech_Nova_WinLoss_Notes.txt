@@ -1,0 +1,9 @@
+Internal Sales Win/Loss Analysis - Q3 2025
+-----------------------------------------
+Rep: David Chen
+
+WIN vs. HubSpot:
+Won a 200-seat deal from HubSpot. Prospect was on HubSpot's 'Sales Pro' plan and was furious about the new "HubSpot Credits" system. They said their AI features were "a confusing, pay-as-you-go nightmare." We won by showing them our 'Pro Tier' with "Nova AI" *included* for one flat fee. The 'Unlimited API Calls' was the final nail in the coffin, as they were also hitting their API limits with HubSpot.
+
+LOSS vs. Zoho:
+Lost a 50-seat deal to Zoho CRM. The prospect was a highly-technical manufacturing company. They had a *very* specific, niche workflow for inventory management. Zoho's 'Canvas' (their UI designer) and 'Client Scripts' allowed them to build a completely custom module. Our platform was "too simple" for their engineering-led needs. We lost on extreme customizability.

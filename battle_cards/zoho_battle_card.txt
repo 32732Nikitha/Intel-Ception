@@ -1,0 +1,22 @@
+### 1. zoho Key Strengths:
+*   **Broad Ecosystem (Zoho One):** Can run an entire business on Zoho apps, offering a wide range of functionalities.
+*   **Extreme Customizability:** Tools like 'Canvas' (UI designer) and 'Client Scripts' allow for building highly specific, niche workflows and custom modules, especially for technical needs (e.g., inventory management).
+*   **Lower Entry Price Points:** More budget-friendly starting tiers compared to Tech Nova.
+*   **Inventory Management:** Explicitly included in their Professional tier.
+
+### 2. zoho Key Weaknesses:
+*   **Integration Issues:** Integrations between Zoho One apps can be "buggy" and feel "bolted together," not seamless.
+*   **Hidden Costs/Complexity:** Many advanced features (e.g., analytics, support) are part of other Zoho apps and may require separate subscriptions or the Zoho One bundle, leading to potential unexpected costs and management overhead.
+*   **Not a truly "all-in-one" CRM:** The core CRM may lack advanced features without additional Zoho app subscriptions.
+
+### 3. Our Winning Strategy (vs. zoho):
+*   **Highlight True All-in-One Simplicity & Predictability:** Emphasize Tech Nova's mission as "powerful, simple, and predictable" all-in-one CRM, contrasting with Zoho's "bolted together" integrations and potential for separate subscriptions.
+*   **Seamless Integration & Superior UX:** Position Tech Nova as a truly integrated platform, avoiding the "buggy" and "bolted together" experience reported for Zoho One.
+*   **Integrated AI & Unlimited Core Features:** Tech Nova's Pro tier ($90/user/mo) includes "Nova AI" Co-pilot, AI Call Summaries, Email Drafting, Unlimited API Calls, and Unlimited automation workflows *out-of-the-box*, offering more comprehensive core CRM value than Zoho's tiered AI (Zia at $40/user/mo) and feature limits.
+*   **Focus on Core CRM Power (unless extreme custom is needed):** For prospects who *don't* require extreme, engineering-led customizability for niche workflows, position Tech Nova's robust, integrated platform as a superior choice, avoiding the complexity and integration headaches of building custom modules from scratch.
+
+### 4. Key Source Documents:
+*   Zoho_Datasheet_Pricing.txt
+*   Zoho_G2_Reviews.txt
+*   Tech_Nova_Datasheet.txt
+*   Tech_Nova_WinLoss_Notes.txt
